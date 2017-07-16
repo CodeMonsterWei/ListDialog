@@ -5,17 +5,17 @@
 
 ## 快速導引：
 
-* [主要功能](#主要功能)
-* [畫面堆疊](#畫面堆疊)
-* [方法介紹](#方法介紹)
-* [顯示類型](#顯示類型)
-* [修改類型](#修改類型)
-* [事件類型](#事件類型)
-* [使用圖片](#使用圖片)
-* [基本使用](#基本使用)
-* [快速使用](#快速使用)
-* [添加效果背景](#添加效果背景)
-* [項目的點擊效果](#項目的點擊效果)
+> * [主要功能](#主要功能)
+>> * [畫面堆疊](#畫面堆疊)
+> * [方法介紹](#方法介紹)
+>> * [顯示類型](#顯示類型)
+>> * [修改類型](#修改類型)
+>> * [事件類型](#事件類型)
+> * [使用圖片](#使用圖片)
+>> * [基本使用](#基本使用)
+>> * [快速使用](#快速使用)
+>> * [添加效果背景](#添加效果背景)
+>> * [項目的點擊效果](#項目的點擊效果)
 
 #### 模擬 Dialog 的方式在內部增加一個 ListView
 #### ListView 的 BaseAdapter 的 View 則選用 TextView
@@ -45,12 +45,12 @@
 
 ```
     顯示Title文字： setTitleText(String text)
-                          當沒有使用時,則不會顯示
+                   當沒有使用時,則不會顯示
     顯示Content文字： setContentText(String text)
-                          當沒有使用時,則不會顯示
+                     當沒有使用時,則不會顯示
     顯示List文字： setItemContent(String[] staArr)
-                 setItemContent(ArrayList<String> arrayList)
-                 當沒有使用時,則不會顯示
+                  setItemContent(ArrayList<String> arrayList)
+                  當沒有使用時,則不會顯示
 ```
 
 ## 修改類型：
@@ -58,18 +58,18 @@
 ```
     修改Dialog背景： setDialogBackground(int backgroundID)
     修改Dialog寬高： setDialogSize(int width, int height)
-                   預設為 寬高的 5 分之 3
-                   輸入 0 為預設值
+                    預設為 寬高的 5 分之 3
+                    輸入 0 為預設值
     修改Title文字大小： setTitleTextSize(float size)
-                     預設為 30
+                      預設為 30
     修改Content文字大小： setContentTextSize(float size)
-                       預設為 25
+                        預設為 25
     修改Item背景： setItemBackground(int backgroundID)
     修改Item背景顏色： setItemBackgroundColor(int a, int r ,int g, int b)
-                    setItemBackgroundColor(int ColorID)
-                    當使用 setItemBackground() 則此兩個 method 無效
+                     setItemBackgroundColor(int ColorID)
+                     當使用 setItemBackground() 則此兩個 method 無效
     修改ItemTextSize大小： setItemTextSize(float size)
-                         預設為 20
+                          預設為 20
 ```
 
 ## 事件類型：
