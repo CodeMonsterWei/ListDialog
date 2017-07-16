@@ -31,11 +31,12 @@
 ## 畫面堆疊：
 
 ```
-    灰幕
-        DialogView
+    LinearLayout - 灰幕
+        LinearLayout - DialogView
             TextView - Title
             TextView - Content
             ListView
+                TextView - item
 ```
 
 ### 方法介紹
