@@ -3,21 +3,26 @@
 
 #### 模擬 Dialog 的方式在內部增加一個 ListView
 #### ListView 的 BaseAdapter 的 View 則選用 TextView
-    
-使用圖片：
+    
+## 使用圖片：
+
 `基本使用：`
+
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed73/20226000/1166825123_x.jpg)
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed74/20226000/1166825124_x.jpg)
 
 `快速使用：`
+
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8edf1/20226000/1166826017_x.jpg)
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed20/20226000/1166824272_x.jpg)
 
 `添加效果背景`
+
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8edf2/20226000/1166826018_x.jpg)
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed61/20226000/1166824849_x.jpg)
 
 `item 的點擊效果`
+
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed02/20226000/1166824754_x.jpg)
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8edd9/20226000/1166825225_x.jpg)
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed84/20226000/1166825908_x.jpg)
