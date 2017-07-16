@@ -1,5 +1,5 @@
 
-[點擊下載 aar 檔](https://drive.google.com/file/d/0BxLWenH1MuEeY2NJZXdJM3BwMk0/view?usp=sharing “Google 雲端硬碟”)
+|[點擊下載 aar 檔](https://drive.google.com/file/d/0BxLWenH1MuEeY2NJZXdJM3BwMk0/view?usp=sharing “Google 雲端硬碟”)|
 
 模擬 Dialog 的方式在內部增加一個 ListView
 ListView 的 BaseAdapter 的 View 則選用 TextView
