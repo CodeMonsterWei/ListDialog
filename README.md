@@ -1,12 +1,13 @@
 
 [點擊下載 aar 檔](https://drive.google.com/file/d/0BxLWenH1MuEeY2NJZXdJM3BwMk0/view?usp=sharing)
+
 [ xuite 部落格](http://blog.xuite.net/kalian/code/519824158)
 
 ## 快速導引：
 
 * [主要功能](#主要功能)
 * [畫面堆疊](#畫面堆疊)
-* [Method 介紹](#Method 介紹)
+* [方法介紹](#方法介紹)
 * [顯示類型](#顯示類型)
 * [修改類型](#修改類型)
 * [事件類型](#事件類型)
@@ -14,7 +15,7 @@
 * [基本使用](#基本使用)
 * [快速使用](#快速使用)
 * [添加效果背景](#添加效果背景)
-* [item 的點擊效果](#item 的點擊效果)
+* [項目的點擊效果](#項目的點擊效果)
 
 #### 模擬 Dialog 的方式在內部增加一個 ListView
 #### ListView 的 BaseAdapter 的 View 則選用 TextView
@@ -37,7 +38,7 @@
             ListView
 ```
 
-### Method 介紹
+### 方法介紹
 
 ## 顯示類型：
 
@@ -95,7 +96,7 @@
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8edf2/20226000/1166826018_x.jpg)
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed61/20226000/1166824849_x.jpg)
 
-## item 的點擊效果：
+## 項目的點擊效果：
 
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed02/20226000/1166824754_x.jpg)
 ![使用圖片](http://a.share.photo.xuite.net/kalian/1a8edd9/20226000/1166825225_x.jpg)
