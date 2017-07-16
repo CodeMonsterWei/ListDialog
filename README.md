@@ -1,9 +1,28 @@
 
-|[點擊下載 aar 檔](https://drive.google.com/file/d/0BxLWenH1MuEeY2NJZXdJM3BwMk0/view?usp=sharing “Google 雲端硬碟”)|
+[點擊下載 aar 檔](https://drive.google.com/file/d/0BxLWenH1MuEeY2NJZXdJM3BwMk0/view?usp=sharing)
 
-模擬 Dialog 的方式在內部增加一個 ListView
-ListView 的 BaseAdapter 的 View 則選用 TextView
+#### 模擬 Dialog 的方式在內部增加一個 ListView
+#### ListView 的 BaseAdapter 的 View 則選用 TextView
     
+使用圖片：
+`基本使用：`
+![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed73/20226000/1166825123_x.jpg)
+![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed74/20226000/1166825124_x.jpg)
+
+`快速使用：`
+![使用圖片](http://a.share.photo.xuite.net/kalian/1a8edf1/20226000/1166826017_x.jpg)
+![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed20/20226000/1166824272_x.jpg)
+
+`添加效果背景`
+![使用圖片](http://a.share.photo.xuite.net/kalian/1a8edf2/20226000/1166826018_x.jpg)
+![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed61/20226000/1166824849_x.jpg)
+
+`item 的點擊效果`
+![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed02/20226000/1166824754_x.jpg)
+![使用圖片](http://a.share.photo.xuite.net/kalian/1a8edd9/20226000/1166825225_x.jpg)
+![使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed84/20226000/1166825908_x.jpg)
+
+```
 主要功能：
     多選一型 Dialog
     能因應選項數量自動增加 Item
@@ -44,16 +63,4 @@ Method 介紹
     點擊Item事件： setOnItemClickListener(OnItemClickListener listener)
     取消背景退出事件： cancelTheBackgroundToExit()
     移除Dialog事件： dismiss()
-
-使用圖片：
-
-[使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed73/20226000/1166825123_x.jpg “1”)
-[使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed74/20226000/1166825124_x.jpg “2”)
-[使用圖片](http://a.share.photo.xuite.net/kalian/1a8edf1/20226000/1166826017_x.jpg “3”)
-[使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed20/20226000/1166824272_x.jpg “4”)
-[使用圖片](http://a.share.photo.xuite.net/kalian/1a8edf2/20226000/1166826018_x.jpg “5”)
-[使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed61/20226000/1166824849_x.jpg “6”)
-[使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed02/20226000/1166824754_x.jpg “7”)
-[使用圖片](http://a.share.photo.xuite.net/kalian/1a8edd9/20226000/1166825225_x.jpg “8”)
-[使用圖片](http://a.share.photo.xuite.net/kalian/1a8ed84/20226000/1166825908_x.jpg “9”)
-
+```
