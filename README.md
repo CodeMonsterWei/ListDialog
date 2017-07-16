@@ -51,7 +51,7 @@
                    當沒有使用時,則不會顯示
     顯示Content文字： setContentText(String text)
                      當沒有使用時,則不會顯示
-    顯示List文字： setItemContent(String[] staArr)
+    顯示List文字： setItemContent(String[] stArr)
                   setItemContent(ArrayList<String> arrayList)
                   當沒有使用時,則不會顯示
 ```
